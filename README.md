@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of three machine learning models developed to predict the thermostability of proteins based on their amino acid sequences, which is a key trait that enhances various application-specific functions in computational biology. 
+This repository contains the implementation of machine learning models developed to predict the thermostability of proteins based on their amino acid sequences, which is a key trait that enhances various application-specific functions in computational biology. 
 
 ### Problem Description
 
